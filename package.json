@@ -1,0 +1,24 @@
+{
+  "name": "exor-cart",
+  "version": "1.0.0",
+  "description": "Bulk-add Magic: The Gathering singles to your exorgames.com cart from a decklist, using your logged-in account.",
+  "type": "module",
+  "bin": {
+    "exor-cart": "src/cli.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "cart": "node src/cli.mjs cart",
+    "add": "node src/cli.mjs add",
+    "login": "node src/cli.mjs login"
+  },
+  "keywords": [
+    "mtg",
+    "shopping",
+    "exorgames"
+  ],
+  "license": "MIT",
+  "private": true
+}

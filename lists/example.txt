@@ -1,0 +1,11 @@
+# A few cards, one per line. Quantities and set tags are both optional.
+#
+#   node src/cli.mjs add lists/example.txt --dry-run
+
+4 Lightning Bolt
+4 Counterspell
+2 Wrath of God
+1 Sol Ring
+1 Delver of Secrets // Insectile Aberration
+3 Llanowar Elves (M19) 314
+SB: 2 Duress
